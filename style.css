@@ -1,0 +1,20 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.green{
+	height:400px;
+	width:600px;
+	background-color:green;
+	margin:auto;
+	overflow:hidden;
+	
+	
+}
+.red{
+	height:250px;
+	width:250px;
+	background-color:red;
+	border-radius:50%;
+	margin:67px auto;
+}
